@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Caption here
 Hello still alive Marcel
-![Vinyltocat](https://octodex.github.com/images/Vinyltocat.png)
+![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)
 {: .center}
