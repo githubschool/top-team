@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+## Scuba divers unite
 
-![minertocat](https://octodex.github.com/images/minertocat.png)
+![scubatocat](https://octodex.github.com/images/scubatocat.png)
 {: .center}
