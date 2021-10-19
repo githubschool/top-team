@@ -4,6 +4,6 @@ title: "Welcome to our slide deck!"
 ---
 
 Caption here
-
-![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+Hello still alive Marcel
+![Vinyltocat](https://octodex.github.com/images/vinyltocat.png)
 {: .center}
