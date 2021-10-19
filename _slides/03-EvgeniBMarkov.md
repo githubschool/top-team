@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck!!!"
 ---
 
-Caption here
+I am Gencho's avatar!
 
 ![constructocat](https://octodex.github.com/images/constructocat2.jpg)
 {: .center}
