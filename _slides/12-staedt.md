@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck!!!!! It is awesome! "
 ---
 
-Caption here
+Do robots dream of electric sheep?
 
 ![codercat](https://octodex.github.com/images/codercat.jpg)
 {: .center}
